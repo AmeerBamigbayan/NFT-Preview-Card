@@ -55,8 +55,18 @@ h3{
     color: #fff;
     margin: 0 0 10px 15px;
     text-align: left;
+    letter-spacing: 0.5px;
 }
 
+p{
+    color: hsl(215, 51%, 70%);
+    font-size: 14px;
+    margin-left: 15px;
+    text-align: start;
+    font-weight: 200;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+}
 @media (min-width: 768px) {
     .container{
         width: 280px;
