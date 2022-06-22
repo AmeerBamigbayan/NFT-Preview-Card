@@ -67,6 +67,34 @@ p{
     letter-spacing: 0.2px;
     line-height: 20px;
 }
+
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 89%;
+    padding: 10px;
+    align-items: center;
+}
+
+.eth{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.eth img{
+    width: 12%;
+    height: 12%;
+}
+
+.eth .text{
+    color: #00fff8;
+    margin-left: 2px;
+    font-size: 12px;
+}
+
 @media (min-width: 768px) {
     .container{
         width: 280px;
