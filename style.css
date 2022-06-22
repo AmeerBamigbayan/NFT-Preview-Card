@@ -20,7 +20,7 @@ color: hsl(0, 0%, 100%);
 }
 
 body{
-    font-family: 'RedHatDisplay', sans-serif;;
+    font-family: 'Outfit', sans-serif;;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -30,6 +30,7 @@ body{
     background-size: cover;
     background-image: url(img/bg.png);
     min-height: 100vh;
+
     
 }
 
@@ -41,6 +42,8 @@ body{
 }
 
 .img img{
-   width: 60%;
-   border-radius: 20px 20px 0px 0px;
+   width: 90%;
+   margin: 0 auto;
+   padding: 15px;
+   border-radius: 25px;
 }
