@@ -95,6 +95,25 @@ p{
     font-size: 12px;
 }
 
+.days{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.days img{
+    width: 12%;
+    height: 12%;
+    margin-left: 45px;
+}
+
+.days .text{
+    color: #8bacd9;
+    font-size: 12px;
+}
+
+
+
 @media (min-width: 768px) {
     .container{
         width: 280px;
