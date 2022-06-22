@@ -47,3 +47,19 @@ body{
    padding: 15px;
    border-radius: 25px;
 }
+
+h3{
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    margin: 0 0 10px 15px;
+    text-align: left;
+}
+
+@media (min-width: 768px) {
+    .container{
+        width: 280px;
+        margin: 0 auto;
+    }
+}
