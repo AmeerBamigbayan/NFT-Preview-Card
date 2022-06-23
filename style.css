@@ -48,6 +48,7 @@ body{
    border-radius: 25px;
 }
 
+
 h3{
     font-family: 'Outfit', sans-serif;
     font-size: 16px;
@@ -56,6 +57,11 @@ h3{
     margin: 0 0 10px 15px;
     text-align: left;
     letter-spacing: 0.5px;
+    cursor: pointer;
+}
+
+h3:hover{
+    color: #00fff8;
 }
 
 p{
@@ -142,6 +148,11 @@ p{
 
 .cardfooter p span{
     color: #fff;
+    cursor: pointer;
+}
+
+.cardfooter p span:hover{
+    color: #00fff8;
 }
 
 footer {
