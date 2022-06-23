@@ -144,6 +144,18 @@ p{
     color: #fff;
 }
 
+@media(max-width: 376px){
+    .cardfooter p{
+        margin-right: 36%;
+    }
+}
+
+@media(max-width: 414px){
+    .cardfooter p{
+        margin-right: 35%;
+    }
+}
+
 @media (min-width: 768px) {
     .container{
         width: 280px;
