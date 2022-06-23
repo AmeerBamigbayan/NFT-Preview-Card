@@ -140,6 +140,10 @@ p{
    font-size: 12px;
 }
 
+.cardfooter p span{
+    color: #fff;
+}
+
 @media (min-width: 768px) {
     .container{
         width: 280px;
