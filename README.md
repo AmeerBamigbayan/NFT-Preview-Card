@@ -11,3 +11,21 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 - Solution URL: https://github.com/AmeerBamigbayan/NFT-Preview-Card
 - Live Site URL: https://ameerbamigbayan.github.io/NFT-Preview-Card/
+
+
+### Built with
+- HTML
+- CSS
+
+
+### Useful resources
+ - [Stackoverflow](https://stackoverflow.com)
+ - [CSS Tricks](https://css-tricks.com)
+
+
+## Author
+
+- Website - [Ameer Bamigbayan](https://ameerbamigbayan.com.ng)
+- Frontend Mentor - [@AmeerBamigbayan](https://www.frontendmentor.io/profile/AmeerBamigbayan)
+- Twitter - [@am33r_105](https://twitter.com/am33r_105)
+
