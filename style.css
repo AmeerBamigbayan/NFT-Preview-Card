@@ -112,6 +112,10 @@ p{
     font-size: 12px;
 }
 
+.line{
+    border: 0.1px solid hsl(215, 32%, 27%);
+}
+
 
 
 @media (min-width: 768px) {
