@@ -168,9 +168,9 @@ footer {
 }
 
 footer p a{
-    color: #2c7dfa;
+    color: #00fff8;
     text-decoration: none;
-    font-weight: 900;
+    font-weight: 500;
 }
 @media(max-width: 376px){
     .cardfooter p{
