@@ -16,7 +16,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Built with
 - HTML
 - CSS
-
+   
 
 ### Useful resources
  - [Stackoverflow](https://stackoverflow.com)
